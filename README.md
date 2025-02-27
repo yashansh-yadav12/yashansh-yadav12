@@ -6,7 +6,7 @@
 🚀 **Open to:** Data Science and Data Analyst roles  
 
 📊 **Check out my work:**  
-- [🛠 GitHub Portfolio](https://github.com/yourusername)  
+- [🛠 GitHub Portfolio](https://github.com/yashansh-yadav12/portfolio)  
 - [🌍 Personal Website](https://yourwebsite.com) 
 
 <!--
