@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Yashansh Yadav]!  
+# 👋 Hi, I'm Yashansh Yadav!  
 
 🔍 **Aspiring Data Analyst & Scientist** passionate about uncovering insights from data.  
 
