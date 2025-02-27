@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm [Yashansh Yadav]!  
+
+🔍 **Aspiring Data Analyst & Scientist** passionate about uncovering insights from data.  
+
+🌱 **Currently Learning:** Deep Learning, Cloud ML Platforms  
+🚀 **Open to:** Data Science and Data Analyst roles  
+
+📊 **Check out my work:**  
+- [🛠 GitHub Portfolio](https://github.com/yourusername)  
+- [🌍 Personal Website](https://yourwebsite.com) 
 
 <!--
 **yashansh-yadav12/yashansh-yadav12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
